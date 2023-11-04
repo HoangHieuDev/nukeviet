@@ -1,0 +1,1 @@
+[Sat, 04 Nov 2023 15:59:31 +0700] [localhost] [::1] [Warning(2): imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile] [FILE: /vendor/vinades/nukeviet/Files/Image.php] [LINE: 205]
