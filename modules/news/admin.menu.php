@@ -90,6 +90,7 @@ if (!isset($site_mods['cms'])) {
 }
 
 if ($NV_IS_ADMIN_MODULE) {
+    $submenu['statistics'] = $lang_module['statistics'];
     $submenu['cat'] = $lang_module['categories'];
     $submenu['tags'] = $lang_module['tags'];
     $submenu['groups'] = $lang_module['block'];
@@ -137,4 +138,5 @@ if ($NV_IS_ADMIN_MODULE) {
     $allow_func[] = 'setting';
     $allow_func[] = 'voices';
     $allow_func[] = 'move';
+    $allow_func[] = 'statistics';
 }

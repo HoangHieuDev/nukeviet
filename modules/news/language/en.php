@@ -98,6 +98,7 @@ $lang_module['finter_title'] = 'From date:';
 $lang_module['source_title'] = 'Source';
 $lang_module['keywords'] = 'Keywords';
 $lang_module['tags'] = 'Tags';
+$lang_module['statistics'] = 'Statistics';
 $lang_module['no_permission'] = 'You do not have permission to view articles';
 $lang_module['rating_error1'] = 'Error: Can\'t rate';
 $lang_module['rating_error2'] = 'You was rated';

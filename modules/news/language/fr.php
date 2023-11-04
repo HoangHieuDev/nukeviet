@@ -98,6 +98,7 @@ $lang_module['finter_title'] = 'Depuis:';
 $lang_module['source_title'] = 'Source';
 $lang_module['keywords'] = 'Mot clé';
 $lang_module['tags'] = 'Tags';
+$lang_module['statistics'] = 'Statistique';
 $lang_module['no_permission'] = 'Vous ne pouvez pas regarder cet article';
 $lang_module['rating_error1'] = 'Évaluation invalide';
 $lang_module['rating_error2'] = 'Vous avez déjà évalué cet article';
