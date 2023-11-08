@@ -418,3 +418,4 @@ $lang_module['total'] = 'Totale';
 $lang_module['hide_author'] = 'Ne pas afficher publiquement le nom de l\'auteur externe';
 $lang_module['hide_inauthor'] = 'Ne pas afficher publiquement le nom interne externe';
 $lang_module['statistics'] = 'Statistique';
+$lang_module['number_of_post'] = 'Nombre de postes:';

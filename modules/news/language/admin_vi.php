@@ -418,3 +418,4 @@ $lang_module['total'] = 'Tất cả';
 $lang_module['hide_author'] = 'Không hiển thị công khai tên tác giả bên ngoài';
 $lang_module['hide_inauthor'] = 'Không hiển thị công khai tên tác giả thuộc quyền quản lý';
 $lang_module['statistics'] = 'Thống kê';
+$lang_module['number_of_post'] = 'Số lượng bài viết';
